@@ -31,6 +31,6 @@ This project was built as part of Jonas Schmedtmann JavaScript course to practic
 
 ## Live Demo Try the game here: https://navid-mzn.github.io/Pig-Game/
 
-## 📸 Screenshot
+## Screenshot
 
 ![Pig Game](Screenshot.png)
