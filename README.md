@@ -29,7 +29,10 @@ This project was built as part of Jonas Schmedtmann JavaScript course to practic
 - DOM manipulation and event handling
 - Writing clean and structured JavaScript code
 
-## Live Demo Try the game here: https://navid-mzn.github.io/Pig-Game/
+## Live Demo
+
+Try the game here:
+https://navid-mzn.github.io/Pig-Game/
 
 ## Screenshot
 
